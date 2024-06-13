@@ -1,0 +1,112 @@
+ActivationState: Activated
+ActivationStateAcknowledged: true
+BasebandActivationTicketVersion: V2
+BasebandCertId: 2315222105
+BasebandChipID: 9781473
+BasebandKeyHashInformation: 
+ AKeyStatus: 2
+ SKeyHash: u+/tcCwvaQ+1Y9t40I4yegCEmB28mALlaROhaIVGBWo=
+ SKeyStatus: 0
+BasebandMasterKeyHash: 8CB15EE4C8002199070D9500BB8FB183B02713A5CA2A6B92DB5E75CE15536182
+BasebandRegionSKU: AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+BasebandSerialNumber: FQpDdw==
+BasebandStatus: BBInfoAvailable
+BasebandVersion: 9.61.00
+BluetoothAddress: 98:ca:33:0a:c7:25
+BoardId: 8
+BrickState: false
+BuildVersion: 19H384
+CPUArchitecture: arm64
+CarrierBundleInfoArray[1]: 
+ 0: 
+  CFBundleIdentifier: com.apple.Bell_ca
+  CFBundleVersion: 50.0
+  GID1: 3d
+  GID2: ffff
+  IntegratedCircuitCardIdentity: 89302610203038730863
+  InternationalMobileSubscriberIdentity: 302610017369060
+  MCC: 302
+  MNC: 610
+  MobileEquipmentIdentifier: 35946008155097
+  SIMGID1: PQ==
+  SIMGID2: //8=
+  Slot: kOne
+  kCTPostponementInfoAvailable: SIMCarrierInfo
+CertID: 2315222105
+ChipID: 32784
+ChipSerialNo: FQpDdw==
+DeviceClass: iPhone
+DeviceColor: 1
+DeviceName: iPhone (2)
+DieID: 3968000160568102
+EthernetAddress: 98:ca:33:0a:c7:26
+FirmwareVersion: iBoot-7459.140.15
+FusingStatus: 3
+GID1: 3d
+GID2: ffff
+HardwareModel: D10AP
+HardwarePlatform: t8010
+HasSiDP: true
+HostAttached: true
+IntegratedCircuitCardIdentity: 89302610203038730863
+InternationalMobileEquipmentIdentity: 359460081550975
+InternationalMobileSubscriberIdentity: 302610017369060
+InternationalMobileSubscriberIdentityOverride: false
+MLBSerialNumber: FJ6726509MRH6TFC
+MobileEquipmentIdentifier: 35946008155097
+MobileSubscriberCountryCode: 302
+MobileSubscriberNetworkCode: 610
+ModelNumber: MNAC2
+NonVolatileRAM: 
+ IONVRAM-SYNCNOW-PROPERTY: SU9OVlJBTS1TWU5DTk9XLVBST1BFUlRZ
+ auto-boot: dHJ1ZQ==
+ backlight-level: MTQ5MQ==
+ backlight-nits: MHgwMGFiYTI3Yg==
+ boot-args: 
+ boot-breadcrumbs: NDAwNjAwMDIgNDAwNjAwMDMoZmZmZmZmZmYpIDQwMDYwMDAzKGZmZmZmZmZmKSA0MDA2MDAwMiA8Q09NTUlUPiA8Qk9PVD4gMWMwMDJiKDIwMDZkMDApIDIwMDEyIDQwMDYwMDAzKGZmZmZmZmZmKSA0MDA2MDAwMyhmZmZmZmZmZikgNDAwNjAwMDIgNDAwNjAwMDMoZmZmZmZmZmYpIDQwMDYwMDAzKGZmZmZmZmZmKSA0MDA2MDAwMiA8Q09NTUlUPiA8Qk9PVD4gMWMwMDJiKDIwMDZkMDApIDIwMDEyIDQwMDYwMDAzKGZmZmZmZmZmKSA0MDA2MDAwMyhmZmZmZmZmZikgNDAwNjAwMDIgNDAwNjAwMDMoZmZmZmZmZmYpIDQwMDYwMDAzKGZmZmZmZmZmKSA0MDA2MDAwMiA8Q09NTUlUPiA8Qk9PVD4gMWMwMDJiKDIwMDZkMDApIDIwMDEyIDQwMDYwMDAzKGZmZmZmZmZmKSA0MDA2MDAwMyhmZmZmZmZmZikgNDAwNjAwMDIgNDAwNjAwMDMoZmZmZmZmZmYpIDQwMDYwMDAzKGZmZmZmZmZmKSA0MDA2MDAwMiA8Q09NTUlUPiA8Qk9PVD4gMWMwMDJiKDIwMDZkMDApIDIwMDEyIDQwMDYwMDAzKGZmZmZmZmZmKSA0MDA2MDAwMyhmZmZmZmZmZikgNDAwNjAwMDIgNDAwNjAwMDMoZmZmZmZmZmYpIDQwMDYwMDAzKGZmZmZmZmZmKSA0MDA2MDAwMiA8Q09NTUlUPiA=
+ bootdelay: MA==
+ com.apple.System.tz0-size: MHhDMDAwMDA=
+ fm-activation-locked: Tk8=
+ fm-spkeys: YnBsaXN0MDDWAQIDBAUGBwgREhMUUXNRdlFpUWJRcFFsTxAgVP56BsEAqo3GbTNzw3hFw7YyTXCiny9MU5RnoQ8uvHDSCQoLEFExUTLSDA0OD1FsUXMQABBg0g0MDw4QATNBxg0hrgVlw08QOQS3Yp5jdSU6yU0zR5DpHnMyfDs48RMuyqxcmqX4GVOJbZyZwfu3bTJYNmgENI3pHlPovVj1D5BSWE8QEJTuKg4TZUmngWtUd+xY/30IFRcZGx0fIURJS01SVFZYWl9haqYAAAAAAAABAQAAAAAAAAAVAAAAAAAAAAAAAAAAAAAAuQ==
+ fm-spstatus: WUVT
+ oblit-begins: T2JsaXRUeXBlOiBPYmxpdGVyYXRlRGF0YVBhcnRpdGlvbi4gUmVhc29uOiB1bmtub3du
+ obliteration: aGFuZGxlX21lc3NhZ2U6IE9ibGl0ZXJhdGlvbiBDb21wbGV0ZQo=
+PRIVersion_Major: 0
+PRIVersion_Minor: 1
+PRIVersion_ReleaseNo: 172
+PairRecordProtectionClass: 4
+PartitionType: GUID_partition_scheme
+PasswordProtected: false
+PhoneNumber: 1 (514) 966-9149
+PkHash: if98WU1oTt+jcaZlvUC9AOG/rlbJxZpIN+cg7Rv1bCY=
+ProductName: iPhone OS
+ProductType: iPhone9,1
+ProductVersion: 15.8.2
+ProductionSOC: true
+ProtocolVersion: 2
+ProximitySensorCalibration: f3oABTIAHgBa9WdB3aQ1QgAAyEKKjjNBLSE0QgAAFkOKjjNBLSE0QgAAFkMhcBxDQfNxv+w5pkT2oKZEADinRNd7p0S/jvBB6UjxQXnY/EGbZgJCAAAgQnnpE0PoahRCAABIQmcm5UNYeeRDM6MURm3XlkObxQ4fASEIGm7/p0WkoL1DH3eCRQIAAAAAAABd
+RegionInfo: LL/A
+SIMGID1: PQ==
+SIMGID2: //8=
+SIMStatus: kCTSIMSupportSIMStatusReady
+SIMTrayStatus: kCTSIMSupportSIMTrayInsertedWithSIM
+SerialNumber: DNQV18BHHG6W
+SoftwareBehavior: EQAAAAAAAAAAAAAAAAAAAA==
+SoftwareBundleVersion: 
+SupportedDeviceFamilies[1]: 
+ 0: 1
+TelephonyCapability: true
+TimeIntervalSince1970: 1718249298.816546
+TimeZone: America/Toronto
+TimeZoneOffsetFromUTC: -14400.000000
+TrustedHostAttached: true
+UniqueChipID: 3968000160568102
+UniqueDeviceID: 17f4720ead4b2cef6414b631312de03f8a1ebfc3
+UseRaptorCerts: true
+Uses24HourClock: false
+WiFiAddress: 98:ca:33:0a:c7:24
+WirelessBoardSerialNumber: F50765475
+kCTPostponementInfoPRIVersion: 0.1.172
+kCTPostponementInfoPRLName: 0
+kCTPostponementInfoServiceProvisioningState: false
+kCTPostponementStatus: kCTPostponementStatusActivated
